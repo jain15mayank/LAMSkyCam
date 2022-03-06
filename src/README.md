@@ -1,0 +1,1 @@
+This folder contains the source code to manage external memory and capture images from the camera. Other aspects like maintaining the running status of `manageHDD_cron.py` and executing `cameraSave_cron.py` at regular intervals is managed by adding cronjobs in RaspberryPi OS.
